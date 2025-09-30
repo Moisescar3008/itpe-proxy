@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # Script de configuración completa para Apps Script con SSL
-# Preconfigurado para: autom.itpe.mx
+# Preconfigurado para: digital.alumnositpe.com
 # Uso: ./setup-ssl.sh
 
-DOMAIN=autom.itpe.mx
+DOMAIN=digital.alumnositpe.com
 SCRIPT_ID=AKfycbyqYNtWvSKGJ3sTJKh2AsSK8yhC-Hb65Za5JECeQJVGf2n7aL_5yx4UqLqxeKH70212ww
 EMAIL=moises.carrillo@itpe.mx
 NGINX_CONTAINER="nginx_proxy"
